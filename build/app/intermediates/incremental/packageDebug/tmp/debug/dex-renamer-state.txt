@@ -1,4 +1,4 @@
-#Tue Aug 08 21:48:27 EDT 2023
+#Tue Aug 08 23:10:24 EDT 2023
 base.0=/Users/adamwinebarger/AndroidStudioProjects/flutter_chat_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 base.1=/Users/adamwinebarger/AndroidStudioProjects/flutter_chat_app/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
 base.2=/Users/adamwinebarger/AndroidStudioProjects/flutter_chat_app/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
